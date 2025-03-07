@@ -36,8 +36,8 @@ export default function MatchCard(props: MatchProps) {
         </div>
 
         <div className="flex flex-row gap-1 items-center">
-          <CommandMockIcon />
           <h3>{props.match.awayTeam.name}</h3>
+          <CommandMockIcon />
         </div>
       </div>
     </div>
