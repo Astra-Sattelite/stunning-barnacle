@@ -13,7 +13,7 @@ export default function App() {
         : <div className="flex flex-col">
             <div className="flex flex-col flex-wrap gap-2">
                 {data?.data.matches.map((match, i) => 
-                  <MatchCard match={match} i={i}/>
+                  <MatchCard match={match} key={match.time + i}/>
                 )}
             </div>
           </div>

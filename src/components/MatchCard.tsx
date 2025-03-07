@@ -2,7 +2,6 @@ import { Match } from "../types"
 import CommandMockIcon from "./icons/CommandMockIcon"
 
 type MatchProps = {
-  i: number
   match: Match
 }
 
@@ -18,10 +17,8 @@ export default function MatchCard(props: MatchProps) {
     }
   }
 
-  console.log(props.match)
-
   return (
-    <div key={props.match.time + props.i} className="flex flex-col rounded-lg bg-[#0B0E12] p-4 items-center justify-center">
+    <div className="flex flex-col rounded-lg bg-[#0B0E12] p-4 items-center justify-center">
       <div className="flex flex-row gap-1 items-center justify-between w-full">
         <div className="flex flex-row gap-1 items-center">
           <CommandMockIcon />

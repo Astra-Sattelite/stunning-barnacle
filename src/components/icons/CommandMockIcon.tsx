@@ -7,20 +7,20 @@ export default function CommandMockIcon() {
       <path d="M33.6 28.5H14.4C14.1791 28.5 14 28.3209 14 28.1V17.0466C14 16.6867 14.4381 16.5099 14.6879 16.769L19.612 21.8754C19.8023 22.0728 20.1303 22.0245 20.2556 21.7807L23.6443 15.1917C23.7931 14.9023 24.2069 14.9023 24.3557 15.1917L27.7444 21.7807C27.8697 22.0245 28.1977 22.0728 28.388 21.8754L33.3121 16.769C33.5619 16.5099 34 16.6867 34 17.0466V28.1C34 28.3209 33.8209 28.5 33.6 28.5Z" fill="url(#paint3_linear_68_8389)"/>
       <defs>
         <linearGradient id="paint0_linear_68_8389" x1="24" y1="0.5" x2="24" y2="48.5" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#CF1C51"/>
-        <stop offset="1" stop-color="#AF1947"/>
+        <stop stopColor="#CF1C51"/>
+        <stop offset="1" stopColor="#AF1947"/>
         </linearGradient>
         <linearGradient id="paint1_linear_68_8389" x1="24" y1="4.5" x2="24" y2="44.5" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#FEE3A2"/>
-        <stop offset="1" stop-color="#F2A768"/>
+        <stop stopColor="#FEE3A2"/>
+        <stop offset="1" stopColor="#F2A768"/>
         </linearGradient>
         <linearGradient id="paint2_linear_68_8389" x1="24" y1="30.5" x2="24" y2="32.5" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#FEE3A2"/>
-        <stop offset="1" stop-color="#F2A768"/>
+        <stop stopColor="#FEE3A2"/>
+        <stop offset="1" stopColor="#F2A768"/>
         </linearGradient>
         <linearGradient id="paint3_linear_68_8389" x1="24" y1="14.5" x2="24" y2="28.5" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#FEE3A2"/>
-        <stop offset="1" stop-color="#F2A768"/>
+        <stop stopColor="#FEE3A2"/>
+        <stop offset="1" stopColor="#F2A768"/>
         </linearGradient>
       </defs>
     </svg>
